@@ -1,0 +1,375 @@
+.newsletter-image {
+  height: 170px;
+  background-image: url("https://d.newsweek.com/en/full/1541302/starting5-homepage.png?w=397&amp;h=265&amp;q=90&amp;f=742bce9a6f72dd8f19ba2e7fd5db06e5");
+}
+
+@media only screen and (min-width: 768px) {
+  .newsletter-image {
+    height: 100%;
+  }
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.background-image-style {
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 2px 4px;
+}
+
+.search-form input {
+  width: 57px;
+}
+
+.top-story-pol-image {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1711649/biden-speaks-delaware.webp?w=591&amp;h=364&amp;f=400256ef3c52b699d57e5db01061d213");
+}
+
+.feature-story-image1 {
+  height: 170px;
+  background-image: url("https://d.newsweek.com/en/full/1711616/donald-trump.jpg?w=790&f=011044b698a011462e7e73e5c52ddd4e");
+}
+
+.feature-story-image2 {
+  height: 170px;
+  background-image: url("https://d.newsweek.com/en/full/1711585/trump-waves-south-lawn.jpg?w=1600&h=1600&q=88&f=428e8dd650738410388e44f8a61b1976");
+}
+
+.feature-story-image3 {
+  height: 170px;
+  background-image: url("https://d.newsweek.com/en/full/1702746/newsweek-expert-forum.png?w=1600&h=1200&q=88&f=01e41a7258f61d423fb57697fc58f403");
+}
+
+.feature-story-image4 {
+  height: 170px;
+  background-image: url("https://d.newsweek.com/en/full/1711574/trump-steps-off-air-force-one.jpg?w=1600&h=1600&q=88&f=6060d19ded2a0c31322fa31007e72f97");
+}
+
+.feature-story-image5 {
+  height: 170px;
+  background-image: url("https://d.newsweek.com/en/full/1711670/biden-delivers-remarks-during-memorial-service.jpg?w=1600&h=1600&q=88&f=15eaeec0a6676df3694aaad3f6789ebc");
+}
+
+.aside-extras-images1 {
+  height: 170px;
+  background-image: url("https://d.newsweek.com/en/full/1690478/hokkaido-forest-pic.jpg");
+}
+
+.aside-extras-images2 {
+  height: 170px;
+  background-image: url("https://www.internationalschoolsearch.com/images/uploads/980c31bfdaa51472959ea244ab8ddad2.jpg");
+}
+
+.aside-extras-images3 {
+  height: 170px;
+  background-image: url("https://d.newsweek.com/en/full/1675787/americas-most-responsible-companies-2021.png?w=1310&q=95&f=fdc5ccfead44910f025db34c699bce4a");
+}
+
+.aside-extras-images4 {
+  height: 170px;
+  background-image: url("https://d.newsweek.com/en/full/1638920/image-3-this-startup-making.jpg?w=500&h=333&f=d3ab894bb4a4f0a8af53551fabfb306d");
+}
+
+.aside-extras-images5 {
+  height: 170px;
+  background-image: url("https://d.newsweek.com/en/full/1710394/hungary-picture.jpg?w=500&h=333&f=d42c219d6231b1b93354974ad594869a");
+}
+
+.aside-extras-images6 {
+  height: 170px;
+  background-image: url("https://d.newsweek.com/en/full/1708929/panama-online-photo.jpg?w=500&h=333&f=61184ec0c9ac388d6550edc3a27e123d");
+}
+
+.aside-extras-images7 {
+  height: 170px;
+  background-image: url("https://d.newsweek.com/en/full/1680462/american-heritage-school.jpg?w=500&h=333&f=5f21b07620b0d3097fb92204c43a9b30");
+}
+
+.myturn-image1 {
+  height: 150px;
+  background-image: url("https://d.newsweek.com/en/full/1710127/marriage-same-sex-marriage-best-friends.jpg?w=397&amp;h=397&amp;f=7688bda726023e49266faedb579a8513");
+}
+
+.myturn-image2 {
+  height: 150px;
+  background-image: url("https://d.newsweek.com/en/full/1709421/dogs-special-needs-rescue-rescue-dogs.jpg?w=397&amp;h=397&amp;f=caa0b3398340f479d913a565b2aada65");
+}
+
+.myturn-image3 {
+  height: 150px;
+  background-image: url("https://d.newsweek.com/en/full/1705436/nick-ut-presidential-medal-freedom-photographer.jpg");
+}
+
+.culture-travel-image1 {
+  height: 150px;
+  background-image: url("https://d.newsweek.com/en/full/1697308/cul-map-happiness-finland.jpg?w=397&amp;h=397&amp;l=50&amp;t=46&amp;f=2d47cd20613807a462887d9d4783e162");
+}
+
+.culture-travel-image2 {
+  height: 150px;
+  background-image: url("https://d.newsweek.com/en/full/1691685/uncharted-eco-camp-patagonia.jpg?w=397&amp;h=397&amp;f=24dcfe998f35898bb85f55fcd0afe97d");
+}
+
+.culture-travel-image3 {
+  height: 150px;
+  background-image: url("https://d.newsweek.com/en/full/1697359/top-100-songs-2020.jpg?w=397&amp;h=397&amp;f=6a0806824e23c355b52ceaa2c844de2c");
+}
+
+.in-magazine1 {
+  height: 350px;
+  background-image: url("https://d.newsweek.com/en/full/1704591/cover-january-22-2021.jpg?w=360&amp;h=480&amp;q=90&amp;f=e1049b6d5baff23ff83f052690f407fa");
+}
+
+.in-magazine2 {
+  height: 270px;
+  background-image: url("https://d.newsweek.com/en/full/1699861/pro-trump-mob-seizes-capitol.jpg?w=466&amp;h=311&amp;q=90&amp;f=6211816ab79c75bb0b17db7278ec3b29");
+}
+
+.in-magazine3 {
+  height: 270px;
+  background-image: url("https://d.newsweek.com/en/full/1700564/trmpford.jpg?w=466&h=311&q=90&f=71ae3eb76e6ca1bd8befdcb5511eddd7");
+}
+
+.in-magazine4 {
+  height: 270px;
+  background-image: url("https://d.newsweek.com/en/full/1700594/trump-protest-capitol-washington.jpg?w=466&h=311&q=90&f=a9837670139bfe8eb3a5f707e5698120");
+}
+
+.in-magazine5 {
+  height: 270px;
+  background-image: url("https://d.newsweek.com/en/full/1706936/fe-american-coup-01-1230457776.jpg?w=466&h=311&l=49&t=34&q=90&f=fe61d7f4d031885dc95b2006bc5fab84");
+}
+
+.in-magazine6 {
+  height: 270px;
+  background-image: url("https://d.newsweek.com/en/full/1698197/libya-commander-war-funeral.jpg?w=466&h=311&q=90&f=ce913047f187e76ab4bfef163506e586");
+}
+
+.in-magazine7 {
+  height: 270px;
+  background-image: url("https://d.newsweek.com/en/full/1708426/per-london-warrwick-01.jpg?w=466&h=311&l=50&t=21&q=90&f=794d082fb0bfbc2f82c4422fb0943d90");
+}
+
+.in-magazine8 {
+  height: 270px;
+  background-image: url("https://d.newsweek.com/en/full/1706934/cul-rhye-01.jpg?w=466&h=311&l=50&t=42&q=90&f=eb29dadf2100bcf27d4d75f25d508d01");
+}
+
+.editors-pick-image1 {
+  height: 200px;
+  background-image: url("https://d.newsweek.com/en/full/1711224/israel-tanks-border-syria-golan.jpg?w=397&h=295&f=749b7250708431ad0354b29dfece097f");
+}
+
+.editors-pick-image2 {
+  height: 200px;
+  background-image: url("https://d.newsweek.com/en/full/1710904/us-president-donald-trump.jpg?w=397&h=295&f=a72b700ea5adb73ac007ca824117efaa");
+}
+
+.editors-pick-image3 {
+  height: 200px;
+  background-image: url("https://d.newsweek.com/en/full/1710415/queue-covid19-antibody-tests-california.jpg?w=397&h=295&f=5839eb4d620194d6dbe6a5e1ebcf326c");
+}
+
+.editors-pick-image4 {
+  height: 200px;
+  background-image: url("https://d.newsweek.com/en/full/1710277/california-gov-gavin-newsom.jpg?w=397&h=295&f=f723cdeb9958ff7f663d6b709f39288a");
+}
+
+.editors-pick-image5 {
+  height: 200px;
+  background-image: url("https://d.newsweek.com/en/full/1710338/president-elect-joe-biden-climate-getty.jpg?w=397&h=295&f=2d7057e143f8f8f4536b7beba5624c27");
+}
+
+.editors-pick-image6 {
+  height: 200px;
+  background-image: url("https://d.newsweek.com/en/full/1710348/president-donald-trump.jpg?w=397&h=295&f=908527760fa002a971d6fc3b4d0efc89");
+}
+
+.editors-pick-image7 {
+  height: 200px;
+  background-image: url("https://d.newsweek.com/en/full/1710360/people-queue-covid-vaccine.jpg?w=397&h=295&f=fd5737d3be64aa41a6f507f982aee6a4");
+}
+
+.editors-pick-image8 {
+  height: 200px;
+  background-image: url("https://d.newsweek.com/en/full/1710320/joe-biden-covid-19-vaccines.jpg?w=397&h=295&f=42c4349d6dfdd76e005b40708866360a");
+}
+
+.us-image1 {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1711647/vanderburgh-john-keown.jpg?w=397&amp;h=265&amp;f=4db7c0723c0490d9f0576bf575b66abc");
+}
+
+.us-image2 {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1711618/antony-blinken-attends-senate-confirming-hearing.jpg?w=397&amp;h=265&amp;f=fc67c970be97a0199e4b5a3508da9736");
+}
+
+.world-image1 {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1711583/theresa-may-donald-trump-london-2019.jpg?w=397&amp;h=265&amp;l=64&amp;t=44&amp;f=6bf7b6164e3b5c81632ccd2c1f86987d");
+}
+
+.world-image2 {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1711542/donald-trump-rename-airport-scotland-golf.jpg?w=397&amp;h=265&amp;f=8e72c8e02506426969d575b94c6aa024");
+}
+
+.business-image1 {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1710976/sheldonadelson.jpg?w=397&amp;h=265&amp;f=07b84d37eeadc42ce989c32d12b84cd2");
+}
+
+.business-image2 {
+  height: 300px;
+  background-image: url("https://web.archive.org/web/20210120125445im_/https://d.newsweek.com/en/full/1709991/loews-hotels-josh-hawley-cancel.jpg?w=397&amp;h=265&amp;f=1fb5f7500c226e921c8709f1b0e12947");
+}
+
+.tech-sci-image1 {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1711568/anthony-levandowski.jpg?w=397&amp;h=265&amp;f=997bdfde2b8e71d821acabc52da96b73");
+}
+
+.tech-sci-image2 {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1710877/netflix-free-trial.jpg?w=397&amp;h=265&amp;f=270b8a7ad3317cde6fefcc8cbd51f164");
+}
+
+.culture-image1 {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1697332/cul-ps-jared-padalecki-2.jpg?w=397&amp;h=265&amp;l=59&amp;t=40&amp;f=6bb71d7eb250a042646b6febb77da2c6");
+}
+
+.culture-image2 {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1587953/riverdale-season-5-time-jump.jpg?w=397&amp;h=265&amp;f=0308a452c5cac3c9959f18a9674a95f8");
+}
+
+.sports-image1 {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1711638/houston-astros-outfielder-george-springer.jpg?w=397&amp;h=265&amp;f=26bca82037f37436a33ec24e36ab56b0");
+}
+
+.sports-image2 {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1711556/zion-williamson-new-orleans-pelicans.jpg?w=397&amp;h=265&amp;f=5a66bd6b1e8b50b3beb82e561acc5f85");
+}
+
+.exp-forum-image1 {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1702746/newsweek-expert-forum.png?w=397&amp;h=265&amp;f=c8709c236c7800d2c05ae43ad50f2094");
+}
+
+.exp-forum-image2 {
+  height: 300px;
+  background-image: url("https://d.newsweek.com/en/full/1706949/newsweek-expert-forum-members-share-industry-insights.jpg?w=397&amp;h=265&amp;f=304ad0fd81a150111d756ee4658dd09c");
+}
+
+.editors-pick-item p {
+  font-size: 14px;
+}
+
+.subscribe-image {
+  width: 80%;
+  height: 200px;
+  background-image: url("assets/january-15-2021-cover.jpg");
+}
+
+.subscribe-image-2 {
+  width: 100%;
+  height: 200px;
+  background-image: url("assets/cover-january-22-2021.jpg");
+  top: 10%;
+  left: 40%;
+}
+
+.news-letter-wrapper {
+  height: 90%;
+}
+
+.debate-item-text p {
+  font-size: 0.8em;
+}
+
+.debate-column-1 {
+  border-top: 3px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+}
+
+.debate-column-2 {
+  border-top: 1px solid lightgrey;
+  border-bottom: 3px solid lightgrey;
+  margin-top: 0.5px;
+}
+
+.debate-item-text a,
+.opinion-item-text a {
+  font-size: 14px;
+}
+
+.top-story-text a {
+  font-size: 1.3em;
+  color: black;
+}
+
+.opinion-item-text p,
+.opinion-item-text p a {
+  font-size: 12px;
+}
+
+.feature-story-item div:last-child a {
+  font-size: 1.3em;
+  color: black;
+}
+
+.sponsored-text p {
+  font-size: 0.8em;
+}
+
+.newsletter-text p {
+  font-size: 12px;
+}
+
+.more-stories-item article p,
+.latest-news-item article p {
+  font-size: 14px;
+}
+
+.story-type {
+  bottom: 0;
+  left: 0;
+}
+
+.culture-hero {
+  font-size: 13px;
+}
+
+.vs {
+  top: calc(30% + 20px);
+  left: 45%;
+}
+
+.section-title {
+  color: red;
+}
+
+.free-signup-img {
+  height: 65%;
+}
+
+.free-signup {
+  background-color: lightgray;
+}
+
+.newsletter-form input {
+  min-width: 0;
+}
+
+.newsletter-form input:first-child {
+  font-size: 0.9em;
+}
