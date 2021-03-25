@@ -11,7 +11,7 @@ The project implements the styling for the large, medium and mobile views of the
 
 # Live Link
 
-* [NewsWeek Clone](https://moreneecoder.github.io/project-three-newsweek-clone/)
+* [NewsWeek Clone](https://german-cobian.github.io/Newsweek-Page-Clone/)
 
 # Web Page View
 
@@ -25,7 +25,7 @@ The project implements the styling for the large, medium and mobile views of the
 
 ### German Cobian
 * GitHub: [@German-Cobian](https://github.com/German-Cobian)
-* twitter - https://twitter.com/GermanCobian3
+* twitter [@GermanCobian3](https://twitter.com/GermanCobian3)
 
 ### Acknowledgements
 * Microverse
