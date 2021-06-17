@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **German Cobian**
 * GitHub: [@German-Cobian](https://github.com/German-Cobian)
-* Twitter: [@GermanCobian3](https://twitter.com/GermanCobian1)
+* Twitter: [@GermanCobian1](https://twitter.com/GermanCobian1)
 * LinkedIn: [@german-cobian](https://www.linkedin.com/in/german-cobian)
 
 👤 **Morenikeji Fuad Bello**
