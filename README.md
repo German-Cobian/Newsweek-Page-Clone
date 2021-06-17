@@ -25,16 +25,15 @@ This clone was implemented through HTML tags and bootstrap as well as some CSS t
 
 To get a local copy up and running follow these simple example steps.
 
-* Clone this repo on your local machine by running 
-      git clone git@github.com:German-Cobian/New-York-Times-Page-Clone.git
-* cd into the folder you just cloned
+* Clone this repo on your local machine by running `git clone git@github.com:German-Cobian/Newsweek-Page-Clone.git`
+* `cd` into the `Newsweek-Page-Clone` folder you just cloned
 
 
 ## Authors
 
 👤 **German Cobian**
 * GitHub: [@German-Cobian](https://github.com/German-Cobian)
-* Twitter: [@GermanCobian3](https://twitter.com/GermanCobian3)
+* Twitter: [@GermanCobian3](https://twitter.com/GermanCobian1)
 * LinkedIn: [@german-cobian](https://www.linkedin.com/in/german-cobian)
 
 👤 **Morenikeji Fuad Bello**
@@ -54,7 +53,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-* Microverse
+Guidelines for this project were supplied by [The Odin Project](https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap)
 
 
 ## 📝 License
