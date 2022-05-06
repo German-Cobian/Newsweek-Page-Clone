@@ -4,7 +4,7 @@
 
 > This project consists of a reproduction of the Newsweek website homepage. It displays the text, images and video of the original on the given day. Advertisements and many of the interactive elements have been left out.
 
-![Newsweek frontpage](/assets/Newsweek-fontpage.png?raw=true "Newswweek frontpage)
+![Newsweek frontpage](/assets/Newsweek-frontpage.png?raw=true "Newsweek frontpage)
 
 This clone was implemented through HTML tags and bootstrap as well as some CSS to properly give position and style to the diferent elements and sections of the page and make it look as similiar as possible to the original page. It implements the styling for the large, medium and mobile views of the the original newsweek homepage.
 
