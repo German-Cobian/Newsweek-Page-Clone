@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Morenikeji Fuad Bello**
 * GitHub: [@Moreneecoder](https://github.com/Moreneecoder)
-* Twitter [@mo_bello19] (https://twitter.com/mo_bello19)
+* Twitter: [@mo_bello19](https://twitter.com/mo-bello19)
 
 
 ## 🤝 Contributing
